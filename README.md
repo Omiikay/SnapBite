@@ -1,6 +1,6 @@
 # SnapBite: Restaurant Management & Ordering System
 
-SnapBite is a comprehensive restaurant management solution that includes both a management backend system and a WeChat Mini Program for customers. The platform enables restaurants to manage their menu, orders, and operations efficiently while providing customers with a seamless ordering experience.
+SnapBite is a enterprise-level catering management system tailored for restaurants and dining establishments solution, that includes both a management backend system and a WeChat Mini Program for customers. The platform enables restaurants to manage their menu, orders, and operations efficiently while providing customers with a seamless ordering experience.
 
 ## 🌟 Features
 
